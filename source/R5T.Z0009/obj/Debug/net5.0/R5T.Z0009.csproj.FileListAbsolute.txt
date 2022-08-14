@@ -14,3 +14,15 @@ C:\Code\DEV\Git\GitHub\SafetyCone\R5T.Z0009\source\R5T.Z0009\obj\Debug\net5.0\R5
 C:\Code\DEV\Git\GitHub\SafetyCone\R5T.Z0009\source\R5T.Z0009\obj\Debug\net5.0\R5T.Z0009.dll
 C:\Code\DEV\Git\GitHub\SafetyCone\R5T.Z0009\source\R5T.Z0009\obj\Debug\net5.0\ref\R5T.Z0009.dll
 C:\Code\DEV\Git\GitHub\SafetyCone\R5T.Z0009\source\R5T.Z0009\obj\Debug\net5.0\R5T.Z0009.pdb
+C:\Code\DEV\Git\GitHub\SafetyCone\R5T.Z0009\source\R5T.Z0009\bin\Debug\net5.0\R5T.F0000.dll
+C:\Code\DEV\Git\GitHub\SafetyCone\R5T.Z0009\source\R5T.Z0009\bin\Debug\net5.0\R5T.T0132.dll
+C:\Code\DEV\Git\GitHub\SafetyCone\R5T.Z0009\source\R5T.Z0009\bin\Debug\net5.0\R5T.Y0000.dll
+C:\Code\DEV\Git\GitHub\SafetyCone\R5T.Z0009\source\R5T.Z0009\bin\Debug\net5.0\R5T.Z0000.dll
+C:\Code\DEV\Git\GitHub\SafetyCone\R5T.Z0009\source\R5T.Z0009\bin\Debug\net5.0\R5T.F0000.pdb
+C:\Code\DEV\Git\GitHub\SafetyCone\R5T.Z0009\source\R5T.Z0009\bin\Debug\net5.0\R5T.F0000.xml
+C:\Code\DEV\Git\GitHub\SafetyCone\R5T.Z0009\source\R5T.Z0009\bin\Debug\net5.0\R5T.T0132.pdb
+C:\Code\DEV\Git\GitHub\SafetyCone\R5T.Z0009\source\R5T.Z0009\bin\Debug\net5.0\R5T.T0132.xml
+C:\Code\DEV\Git\GitHub\SafetyCone\R5T.Z0009\source\R5T.Z0009\bin\Debug\net5.0\R5T.Y0000.pdb
+C:\Code\DEV\Git\GitHub\SafetyCone\R5T.Z0009\source\R5T.Z0009\bin\Debug\net5.0\R5T.Y0000.xml
+C:\Code\DEV\Git\GitHub\SafetyCone\R5T.Z0009\source\R5T.Z0009\bin\Debug\net5.0\R5T.Z0000.pdb
+C:\Code\DEV\Git\GitHub\SafetyCone\R5T.Z0009\source\R5T.Z0009\bin\Debug\net5.0\R5T.Z0000.xml

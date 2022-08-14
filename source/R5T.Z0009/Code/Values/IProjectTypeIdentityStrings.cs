@@ -11,7 +11,7 @@ namespace R5T.Z0009
 	/// * https://cakebuild.net/api/Cake.Incubator.Project/ProjectTypes/
 	/// </summary>
 	[ValuesMarker]
-	public partial interface IProjectTypeIdentityString : IValuesMarker
+	public partial interface IProjectTypeIdentityStrings : IValuesMarker
 	{
 		public string CSharpProject => "9A19103F-16F7-4668-BE54-9A1E7A4F7556";
 		public string SolutionFolder => "2150E333-8FDC-42A3-9474-1A3956D46DE8";
