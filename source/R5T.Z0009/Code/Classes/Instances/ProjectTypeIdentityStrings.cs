@@ -7,7 +7,7 @@ namespace R5T.Z0009
 	{
 		#region Infrastructure
 
-	    public static ProjectTypeIdentityStrings Instance { get; } = new();
+	    public static IProjectTypeIdentityStrings Instance { get; } = new ProjectTypeIdentityStrings();
 
 	    private ProjectTypeIdentityStrings()
 	    {
