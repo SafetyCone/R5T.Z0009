@@ -6,15 +6,31 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
+          "R5T.L0053": "1.0.0",
           "R5T.T0132": "1.0.0",
-          "R5T.T0142": "1.0.0",
-          "R5T.Z0000": "1.0.0"
+          "R5T.T0142": "1.0.0"
         },
         "compile": {
           "bin/placeholder/R5T.F0000.dll": {}
         },
         "runtime": {
           "bin/placeholder/R5T.F0000.dll": {}
+        }
+      },
+      "R5T.L0053/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "R5T.T0131": "1.0.0",
+          "R5T.T0132": "1.0.0",
+          "R5T.Z0000": "1.0.0",
+          "R5T.Z0010.Platform": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/R5T.L0053.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/R5T.L0053.dll": {}
         }
       },
       "R5T.T0131/1.0.0": {
@@ -105,6 +121,19 @@
         "runtime": {
           "bin/placeholder/R5T.Z0000.dll": {}
         }
+      },
+      "R5T.Z0010.Platform/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "R5T.T0131": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/R5T.Z0010.Platform.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/R5T.Z0010.Platform.dll": {}
+        }
       }
     }
   },
@@ -113,6 +142,11 @@
       "type": "project",
       "path": "../../../R5T.F0000/source/R5T.F0000/R5T.F0000.csproj",
       "msbuildProject": "../../../R5T.F0000/source/R5T.F0000/R5T.F0000.csproj"
+    },
+    "R5T.L0053/1.0.0": {
+      "type": "project",
+      "path": "../../../R5T.L0053/source/R5T.L0053/R5T.L0053.csproj",
+      "msbuildProject": "../../../R5T.L0053/source/R5T.L0053/R5T.L0053.csproj"
     },
     "R5T.T0131/1.0.0": {
       "type": "project",
@@ -148,6 +182,11 @@
       "type": "project",
       "path": "../../../R5T.Z0000/source/R5T.Z0000/R5T.Z0000.csproj",
       "msbuildProject": "../../../R5T.Z0000/source/R5T.Z0000/R5T.Z0000.csproj"
+    },
+    "R5T.Z0010.Platform/1.0.0": {
+      "type": "project",
+      "path": "../../../R5T.Z0010/source/R5T.Z0010.Platform/R5T.Z0010.Platform.csproj",
+      "msbuildProject": "../../../R5T.Z0010/source/R5T.Z0010.Platform/R5T.Z0010.Platform.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -180,8 +219,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\David\\Dropbox\\Organizations\\Rivet\\Packages": {},
-        "C:\\Users\\David\\Dropbox\\Organizations\\Rivet\\Shared\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -219,7 +256,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
