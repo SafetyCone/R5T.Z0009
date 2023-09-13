@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ujhdGb7Q07JBG7wD0EudkJ6mjuJPUO5Toi2iAuIn8tENGbJkFLCbAWaGn39Vf7Vx5x6ezA1SH2rN4/N5/VRUcA==",
+  "dgSpecHash": "BL5tvU3yKPI/84nbpojP+S/Jz0A/bm/VlOBXjvb1igA69KE96t2H25Y0zX3SEdN/S37/qvR+iQQE5AQKjpHocA==",
   "success": true,
   "projectFilePath": "C:\\Code\\DEV\\Git\\GitHub\\SafetyCone\\R5T.Z0009\\source\\R5T.Z0009\\R5T.Z0009.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\David\\.nuget\\packages\\r5t.t0132\\1.0.0\\r5t.t0132.1.0.0.nupkg.sha512",
-    "C:\\Users\\David\\.nuget\\packages\\r5t.t0142\\1.0.0\\r5t.t0142.1.0.0.nupkg.sha512"
+    "C:\\Users\\David\\.nuget\\packages\\r5t.t0132\\1.0.0\\r5t.t0132.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }
