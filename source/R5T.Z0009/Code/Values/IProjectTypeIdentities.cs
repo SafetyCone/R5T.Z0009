@@ -8,11 +8,15 @@ namespace R5T.Z0009
 	[ValuesMarker]
 	public partial interface IProjectTypeIdentities : IValuesMarker
 	{
-		private static F0000.IGuidOperator Operator { get; } = F0000.GuidOperator.Instance;
-		private static IProjectTypeIdentityStrings Strings { get; } = ProjectTypeIdentityStrings.Instance;
+#pragma warning disable IDE1006 // Naming Styles
+        private static IProjectTypeIdentityStrings _Strings { get; } = ProjectTypeIdentityStrings.Instance;
+#pragma warning restore IDE1006 // Naming Styles
 
 
-		public Guid CSharpProject => Operator.Parse(Strings.CSharpProject);
-		public Guid SolutionFolder => Operator.Parse(Strings.SolutionFolder);
+		/// <inheritdoc cref="IProjectTypeIdentityStrings.CSharpProject"/>
+        public Guid CSharpProject => Instances.GuidOperator.Parse(_Strings.CSharpProject);
+
+        /// <inheritdoc cref="IProjectTypeIdentityStrings.SolutionFolder"/>
+        public Guid SolutionFolder => Instances.GuidOperator.Parse(_Strings.SolutionFolder);
 	}
 }
